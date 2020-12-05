@@ -8,6 +8,8 @@ Fondo de Pantalla
 
 - batBackground.jpg - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/batBackground.jpg
 
+-uparrow.png - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/uparrow.png
+
 Nav - Carrusel 
 --------------
 -  Misterio.jpg - URL:  https://raw.githubusercontent.com/Juan254/imgRetos/main/misterio.jpg
