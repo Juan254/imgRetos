@@ -3,6 +3,16 @@ Imagenes Asociadas a las secciones del reto
 
 Colección de imagen para los retos propuestos por Mintic - UTP.
 
+RETO - 3
+========
+
+- yonelbackground.jpg - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/yonelbackground.jpg
+- yonel logo - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/%C3%ADndice.jpg
+- yonel nav - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/%C3%ADndicebanner.jpg
+
+RETO - 2
+========
+
 Fondo de Pantalla
 -----------------
 
