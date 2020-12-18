@@ -7,8 +7,8 @@ RETO - 3
 ========
 
 - yonelbackground.jpg - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/yonelback.png
-- yonel logo - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/%C3%ADndice.jpg
-- yonel nav - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/%C3%ADndicebanner.jpg
+- yonel logo - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/%C3%ADndiceBBig.jpg
+- yonel nav - URL: https://raw.githubusercontent.com/Juan254/imgRetos/main/logonav.jpg
 
 RETO - 2
 ========
