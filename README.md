@@ -12,9 +12,7 @@ RETO - 3, 4 y 5
 
 Corrousel
 ---------
-- https://raw.githubusercontent.com/Juan254/imgRetos/main/CRyonel.jpg
 - https://raw.githubusercontent.com/Juan254/imgRetos/main/guitarPark.jpg
-- https://raw.githubusercontent.com/Juan254/imgRetos/main/musica.jpg
 - https://raw.githubusercontent.com/Juan254/imgRetos/main/bikeDownhill.jpg
 - https://raw.githubusercontent.com/Juan254/imgRetos/main/restaurant.jpg
 
