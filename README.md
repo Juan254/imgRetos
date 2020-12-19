@@ -20,9 +20,16 @@ Corrousel
 
 Servicios
 ---------
-- Orlando: https://raw.githubusercontent.com/Juan254/imgRetos/main/orlandoAris.jpg
-- Nallive: https://raw.githubusercontent.com/Juan254/imgRetos/main/ciclistaServLG.jpg
-- Deleite: https://raw.githubusercontent.com/Juan254/imgRetos/main/deleiteCol.jpg
+- Orlando:  https://raw.githubusercontent.com/Juan254/imgRetos/main/orlandoAris.jpg
+- Nallive:  https://raw.githubusercontent.com/Juan254/imgRetos/main/ciclistaServLG.jpg
+- Deleite:  https://raw.githubusercontent.com/Juan254/imgRetos/main/deleiteCol.jpg
+
+Agradecimientos
+---------------
+
+-costillas  https://raw.githubusercontent.com/Juan254/imgRetos/main/costilla.jpg
+-sofi       https://raw.githubusercontent.com/Juan254/imgRetos/main/sofi.jpg
+-futbol     https://raw.githubusercontent.com/Juan254/imgRetos/main/CRyonel.jpg
 
 RETO - 2
 ========
