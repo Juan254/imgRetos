@@ -27,9 +27,9 @@ Servicios
 Agradecimientos
 ---------------
 
--costillas  https://raw.githubusercontent.com/Juan254/imgRetos/main/costilla.jpg
--sofi       https://raw.githubusercontent.com/Juan254/imgRetos/main/sofi.jpg
--futbol     https://raw.githubusercontent.com/Juan254/imgRetos/main/CRyonel.jpg
+- costillas  https://raw.githubusercontent.com/Juan254/imgRetos/main/costilla.jpg
+- sofi       https://raw.githubusercontent.com/Juan254/imgRetos/main/sofi.jpg
+- futbol     https://raw.githubusercontent.com/Juan254/imgRetos/main/CRyonel.jpg
 
 RETO - 2
 ========
